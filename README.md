@@ -5,9 +5,14 @@
 I'm [Luu Cao Hoang](https://www.linkedin.com/in/lcaohoanq), 👨🏻‍💻 an aspiring expert in the field of **Web** development, especially with Spring Boot. I’m also an **Open-Source** enthusiast, with all of my projects open-sourced on [GitHub](https://github.com/lcaohoanq?tab=repositories).
 
 <br/>
-<br/>
 
-<img align="right" alt="Photography Image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF2aXAxZWg1Y3N2bzVscW0wZXA1MmU4MzAxaWY1N3ZibW9uenE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ma0X1M9lQB4FruMaX3/giphy.webp" height="180" />
+<!-- Outer collapsible -->
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+
+  <img align="right" alt="Photography Image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF2aXAxZWg1Y3N2bzVscW0wZXA1MmU4MzAxaWY1N3ZibW9uenE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ma0X1M9lQB4FruMaX3/giphy.webp" height="180" />
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
