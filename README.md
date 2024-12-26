@@ -16,7 +16,7 @@ I'm [Luu Cao Hoang](https://www.linkedin.com/in/lcaohoanq), 👨🏻‍💻 an a
 
 - 🇻🇳 Living in **Ho Chi Minh, Viet Nam**
 
-- 👍 Photography 📸
+- When I'm not at the keyboard, I like to take my camera out 📸, riding my bike alone.
 
 <br/>
 
